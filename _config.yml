@@ -1,3 +1,6 @@
 title: "ThoughtSparks"
-description: "Unauthorized thoughts"
+description: "Riflessioni indipendenti"
+baseurl: "/thoughtsparks"   # importante: perché il repo NON è username.github.io
+url: "https://Codicsss.github.io" # sostituisci <TUO-USERNAME> col tuo username GitHub
 theme: jekyll-theme-minimal
+paginate: 5
